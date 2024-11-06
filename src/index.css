@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  background-color:black;
+  font-family: "Montserrat", sans-serif;
+}
+
+.gradient-button {
+  background: linear-gradient(to right, #7E0217, #D40528);
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-weight: 450;
+}
+
+.gradient-button:hover {
+  color: black;
+  background-color: white;
+}
+
+.form-button {
+  background: #D40528;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-weight: 450;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+  min-width: 500px;
+}
+
+.black-color {
+  color: #8D99AE
+}
+
+.red-color {
+  color: #EF233B
+}
+
+.gray-color {
+  background-color: #2B2D42
+}
+
+.border-left-red {
+  border-left: 4px solid #EF233B; /* or use your desired color */
+  padding-left: 1rem; /* Add padding to separate the text from the border */
+}
