@@ -54,13 +54,13 @@ const data = [
         name: "Ramiz Ahmedov",
         review: "The project was executed at a high level and fully met our expectations.",
         position: "Dean, SDU University",
-        image: "src/images/Ramiz.png",
+        image: "/images/Ramiz.png",
     },
     {
-        name: "Daulet Lepessov",
+        name: "Milana Orkenkyzy",
         review: "The service exceeded my expectations and transformed my business.",
-        position: "CEO, Tech Innovations",
-        image: "src/images/Ramiz.png",
+        position: "SMM, Mobilograph",
+        image: "/images/milana.jpeg",
     },
 ]
 

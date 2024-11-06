@@ -82,7 +82,7 @@ const Form = () => {
                 </form>
 
                 <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img className='h-3/4' src="src/images/ocean.jpeg" alt="portfolio_image" />
+                    <img className='h-3/4' src="/images/ocean.jpeg" alt="portfolio_image" />
                 </div>  
             </div>
         </div>

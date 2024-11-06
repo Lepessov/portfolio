@@ -26,7 +26,7 @@ const Hero = () => {
                 </div>
 
                 <div className=" hidden lg:mt-0 lg:col-span-5 lg:flex justify-center items-center " >
-                    <img className="rounded-full w-full max-w-[300px] lg:max-w-[500px]" src="src/images/forward.jpeg" alt="portfolio_image" />
+                    <img className="rounded-full w-full max-w-[300px] lg:max-w-[500px]" src="/images/forward.jpeg" alt="portfolio_image" />
                 </div>
             </div>
         </section>
